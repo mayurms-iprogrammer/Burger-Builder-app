@@ -578,6 +578,7 @@ module.exports = function (webpackEnv) {
                   minifyJS: true,
                   minifyCSS: true,
                   minifyURLs: true,
+                  
                 },
               }
             : undefined
