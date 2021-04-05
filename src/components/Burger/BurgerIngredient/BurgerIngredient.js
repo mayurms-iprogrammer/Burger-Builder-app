@@ -57,9 +57,11 @@ export class BurgerIngredient extends Component {
                 )
                 break;
 
-
+                default:
+                    break;
 
         }
+       
  return ingredient;
     }
 
