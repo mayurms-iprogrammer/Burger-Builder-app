@@ -5,7 +5,7 @@ import classes from './Toolbar.css';
 const toolbar = (props) => {
     return (
         <header className={classes.Toolbar}>
-            <div>MENU</div>
+                 <div>MENU</div>
             <div className={classes.Logo}>
                 <Logo/>
             </div>

@@ -19,6 +19,9 @@
     border-bottom: 4px solid #40A;
     color: white;
 }
+
+
+
 @media(min-width:500px){
     .NavigationItem{
         margin: 10px 0;
